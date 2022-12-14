@@ -1,0 +1,13 @@
+package com.portatil.service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PortatilServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PortatilServiceApplication.class, args);
+	}
+
+}
